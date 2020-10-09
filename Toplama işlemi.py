@@ -1,0 +1,5 @@
+sayı1 = input("Toplanacak ilk sayıyı giriniz.")
+sayı2 = input("Toplanacak ikinci sayıyı giriniz")
+intsayi1 = int(sayı1)
+intsayi2 = int(sayı2)
+print("İki sayının toplamı:",intsayi1+intsayi2)
